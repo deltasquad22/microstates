@@ -13,8 +13,8 @@ Microstates mod
 # License
 
 # Acknowledgements
-  - [Victoria 3 Wiki](##victoria-3-wiki)
-  - [Victoria 3 Modding Coop](##victoria-3-modding-coop)
+  - [Victoria 3 Wiki](#victoria-3-wiki)
+  - [Victoria 3 Modding Coop](#victoria-3-modding-coop)
 
 ## Victoria 3 Wiki
 
