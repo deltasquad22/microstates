@@ -1,0 +1,16 @@
+﻿AN1 = { # Andorra
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "yellow"
+		color2 = "red"
+	}
+
+	textured_emblem = {
+		texture = "te_MICR_Andorra.dds"
+		instance = { scale = { .25 .25 }	position = { 0.5 0.5 }	}
+	}
+
+}

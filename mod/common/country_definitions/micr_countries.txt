@@ -1,0 +1,10 @@
+﻿REPLACE_OR_CREATE:AN1 = {
+	color = { 0 150 255 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_CATALONIA
+	cultures = { catalan spanish basque french }
+}

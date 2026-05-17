@@ -1,0 +1,47 @@
+﻿POPS = {	
+
+	s:STATE_CATALONIA = {
+		region_state:SPA = {
+		    kill_population_percent_in_state = {
+                percent = 1 # 100%
+            }
+			create_pop = {
+				culture = catalan
+				size = 926100
+			}
+			create_pop = {
+				culture = spanish
+				size = 50010
+			}
+		}
+		# Carlist controlled territories + 50k moved here for gameplay reasons
+		region_state:SPC = {
+			kill_population_percent_in_state = {
+                percent = 1 # 100%
+            }
+			create_pop = {
+				culture = catalan
+				size = 74512
+			}
+		}
+        # Andorra 
+		region_state:AN1 = {
+            create_pop = {
+				culture = spanish
+				size = 50000
+			}
+			create_pop = {
+				culture = catalan
+				size = 50000
+			}
+            create_pop = {
+				culture = french
+				size = 10000
+			}
+            create_pop = {
+				culture = basque
+				size = 10000
+			}
+		}
+    }
+}

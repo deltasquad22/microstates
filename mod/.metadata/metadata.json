@@ -1,10 +1,10 @@
 {
-"name" : "microstates",
+"name" : "Microstates",
 "id" : "com.github.deltasquad22.microstates",
-"version" : "0.1.0",
+"version" : "1.0.0",
 "game_id" : "victoria3",
 "picture" : "thumbnail.png",
-"supported_game_version" : "1.8.*",
+"supported_game_version" : "1.13.*",
 "short_description" : "Microstate mod",
 "tags" : ["Expansion","Fixes","Gameplay","Historical","Map","New Nations"],
 "relationships" : [],

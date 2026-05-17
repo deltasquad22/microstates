@@ -1,0 +1,6 @@
+﻿GLOBAL = {
+	c:FRA = {
+			set_relations = { country = c:AN1 value = 100 }
+	c:SPA = {
+			set_relations = { country = c:AN1 value = 100 }
+}

@@ -1,0 +1,17 @@
+﻿CHARACTERS = {
+	c:AN1 = {
+		create_character = {
+			first_name = "SimO_"
+			last_name = "de_Guardiola_i_Hortoneda"
+			historical = yes
+			birth_date = 1773.6.6
+			culture = cu:catalan
+			ruler = yes
+			interest_group = ig_devout
+			ideology = ideology_moderate
+			traits = {
+				pious
+			}
+		}
+	}
+}

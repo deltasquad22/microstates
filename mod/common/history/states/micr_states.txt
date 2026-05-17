@@ -1,0 +1,18 @@
+﻿STATES = {	
+	s:STATE_CATALONIA = {
+		create_state = {
+			country = c:SPA
+			owned_provinces = { xE0C020 xD616D2 x11E041 x906040 xC2FFD9 x890622 }
+		}
+		create_state = {
+			country = c:SPC
+			owned_provinces = { x0C64AC x945748 x08B4D6 x936FF3 }
+		}
+		create_state = {
+			country = c:AN1
+			owned_provinces = { x2914C3 }
+		}
+		add_homeland = cu:spanish
+		add_homeland = cu:catalan
+	}
+}
