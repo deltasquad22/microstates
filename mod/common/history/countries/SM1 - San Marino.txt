@@ -1,0 +1,12 @@
+﻿COUNTRIES = {
+	c:SM1 ?= {
+		effect_starting_technology_tier_1_tech = yes
+
+		activate_law = law_type:law_parliamentary_republic
+		activate_law = law_type:law_oligarchy
+		activate_law = law_type:law_censorship
+
+		set_tax_level = medium
+
+	}
+}

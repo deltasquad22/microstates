@@ -1,0 +1,17 @@
+﻿DIPLOMACY = {
+	c:MO1 ?= {
+		set_relations = { country = c:SAR value = -50 }	
+	}
+	c:PAP ?= {
+		set_relations = { country = c:SM1 value = 50 }
+	}
+	c:SM1 ?= {
+		set_relations = { country = c:PAP value = 50 }
+	}
+	c:FRA ?= {
+		set_relations = { country = c:AN1 value = 50 }
+	}
+	c:SPA ?= {
+		set_relations = { country = c:AN1 value = 50 }
+	}
+}

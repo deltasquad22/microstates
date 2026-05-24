@@ -1,3 +1,12 @@
 ﻿l_english:
+#countries
 AN1:0 "Andorra"
 AN1_ADJ:0 "Andorran"
+MO1:0 "Monaco"
+MO1_ADJ:0 "Monégasque"
+SM1:0 "San Marino"
+SM1_ADJ:0 "Sanmarinese"
+#names
+Honore_Gabriel:0 "Honoré Gabriel"
+#treaties
+micr_treatyTOP:0 "Treaty of Paris (1814)"
