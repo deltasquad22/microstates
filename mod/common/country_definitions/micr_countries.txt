@@ -1,5 +1,5 @@
 ﻿REPLACE_OR_CREATE:AN1 = {
-	color = { 0 150 255 }
+	color = { 218 41 28 }
 	
 	country_type = recognized
 	
@@ -7,4 +7,26 @@
 	
 	capital = STATE_CATALONIA
 	cultures = { catalan spanish basque french }
+}
+
+REPLACE_OR_CREATE:MO1 = {
+	color = { 255 255 255 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_PROVENCE
+	cultures = { french occitan }
+}
+
+REPLACE_OR_CREATE:SM1 = {
+	color = { 94 182 228 }
+	
+	country_type = recognized
+	
+	tier = principality
+	
+	capital = STATE_ROMAGNA
+	cultures = { north_italian }
 }

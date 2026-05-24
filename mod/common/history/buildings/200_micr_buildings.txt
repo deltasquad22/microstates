@@ -36,4 +36,38 @@
 			}
 		}
 	}
+	s:STATE_PROVENCE={
+		region_state:MO1={
+			create_building={
+				building="building_wheat_farm"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:MO1"
+						levels=1
+						region="STATE_PROVENCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled"  }
+			}
+		}
+	}
+	s:STATE_ROMAGNA={
+		region_state:SM1={
+			create_building={
+				building="building_wheat_farm"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:SM1"
+						levels=1
+						region="STATE_ROMAGNA"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled"  }
+			}
+		}
+	}
 }

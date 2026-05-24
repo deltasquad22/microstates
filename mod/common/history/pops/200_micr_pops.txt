@@ -44,4 +44,61 @@
 			}
 		}
     }
+	s:STATE_PROVENCE = {
+		region_state:SAR = {
+		    kill_population_percent_in_state = {
+                percent = 1 # 100%
+            }
+		}
+		region_state:MO1 = {
+			create_pop = {
+				culture = north_italian
+				size = 131100
+			}
+			create_pop = {
+				culture = occitan
+				size = 41100
+			}
+		}
+		region_state:FRA = {
+		    kill_population_percent_in_state = {
+                percent = 1 # 100%
+            }
+			create_pop = {
+				culture = occitan
+				size = 1038678
+			}
+			create_pop = {
+				culture = occitan
+				religion = protestant
+				size = 12115
+			}
+			create_pop = {
+				culture = french
+				size = 37612
+			}
+			create_pop = {
+				culture = sephardic # Avignonese Jews, closer to Sephardi than Ashkenazi
+				size = 2440
+			}
+		}
+	}
+	s:STATE_ROMAGNA = {
+		region_state:PAP = {
+		    kill_population_percent_in_state = {
+                percent = 1 # 100%
+            }
+			create_pop = {
+				culture = north_italian
+				size = 703600
+			}
+		}
+        # San Marino 
+		region_state:SM1 = {
+            create_pop = {
+				culture = north_italian
+				size = 100000
+			}
+		}
+    }
 }

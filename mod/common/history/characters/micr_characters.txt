@@ -14,4 +14,21 @@
 			}
 		}
 	}
+	c:MO1 = {
+		create_character = {
+			first_name = "Honore_Gabriel"
+			last_name = "Grimaldi"
+			historical = yes
+			birth_date = 1778.5.13
+			culture = cu:french
+			ruler = yes
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				expensive_tastes
+				sickly
+
+			}
+		}
+	}
 }
