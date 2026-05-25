@@ -1,0 +1,12 @@
+﻿l_russian:
+#countries
+AN1:0 "Андорра"
+AN1_ADJ:0 "Андорран"
+MO1:0 "Монако"
+MO1_ADJ:0 "Монегас"
+SM1:0 "Сан-Марино"
+SM1_ADJ:0 "Санмарине"
+#names
+Honore_Gabriel:0 "Оноре Габриэль"
+#treaties
+micr_treatyTOP:0 "Парижский договор (1814)"
